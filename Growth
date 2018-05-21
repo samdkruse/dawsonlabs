@@ -1,0 +1,123 @@
+format-version: 1.2
+date: 01:05:2018 16:16
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: Growth
+creation_date: 2018-05-01T16:10:00Z
+
+[Term]
+id: ID:0000001
+name: height1
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:10:18Z
+
+[Term]
+id: ID:0000002
+name: height2
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:10:34Z
+
+[Term]
+id: ID:0000003
+name: height3
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:10:42Z
+
+[Term]
+id: ID:0000004
+name: avgHt
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:10:52Z
+
+[Term]
+id: ID:0000005
+name: stdDevHt
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:11:01Z
+
+[Term]
+id: ID:0000006
+name: canopyCoverage
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:11:14Z
+
+[Term]
+id: ID:0000007
+name: growthHabit
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:11:33Z
+
+[Term]
+id: ID:0000008
+name: boltScore
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:11:47Z
+
+[Term]
+id: ID:0000009
+name: earlyVigor
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:11:56Z
+
+[Term]
+id: ID:0000010
+name: firstFlowerFemale
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:12:06Z
+
+[Term]
+id: ID:0000011
+name: firstFlower
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:12:18Z
+
+[Term]
+id: ID:0000012
+name: daysToMaturity
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:12:34Z
+
+[Term]
+id: ID:0000013
+name: uniformity
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:12:46Z
+
+[Term]
+id: ID:0000014
+name: coldHardyNotes
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:13:05Z
+
+[Term]
+id: ID:0000015
+name: coldhardyScore
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:13:15Z
+
+[Term]
+id: ID:0000016
+name: lodged
+is_a: ID:0000000 ! Growth
+created_by: juliedawson
+creation_date: 2018-05-01T16:13:28Z
+

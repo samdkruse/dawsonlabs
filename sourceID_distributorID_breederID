@@ -1,0 +1,95 @@
+format-version: 1.2
+date: 01:05:2018 17:46
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: sourceID/distributorID/breederID
+creation_date: 2018-05-01T17:41:27Z
+
+[Term]
+id: ID:0000001
+name: CompanyName
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:42:02Z
+
+[Term]
+id: ID:0000002
+name: FirstName
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:42:14Z
+
+[Term]
+id: ID:0000003
+name: LastName
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:42:23Z
+
+[Term]
+id: ID:0000004
+name: Email
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:42:39Z
+
+[Term]
+id: ID:0000005
+name: Phone
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:42:49Z
+
+[Term]
+id: ID:0000006
+name: Position
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:42:56Z
+
+[Term]
+id: ID:0000007
+name: MailingAddress
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:43:06Z
+
+[Term]
+id: ID:0000008
+name: City
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:43:15Z
+
+[Term]
+id: ID:0000009
+name: State
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:43:23Z
+
+[Term]
+id: ID:0000010
+name: Zip
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:43:33Z
+
+[Term]
+id: ID:0000011
+name: County
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:43:48Z
+
+[Term]
+id: ID:0000012
+name: Crops
+is_a: ID:0000000 ! sourceID/distributorID/breederID
+created_by: juliedawson
+creation_date: 2018-05-01T17:43:58Z
+

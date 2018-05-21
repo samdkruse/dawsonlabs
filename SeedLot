@@ -1,0 +1,74 @@
+format-version: 1.2
+date: 01:05:2018 17:48
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: seedLot
+creation_date: 2018-05-01T17:46:10Z
+
+[Term]
+id: ID:0000001
+name: variety
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:46:31Z
+
+[Term]
+id: ID:0000002
+name: source
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:46:37Z
+
+[Term]
+id: ID:0000003
+name: seedPhoto
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:46:43Z
+
+[Term]
+id: ID:0000004
+name: nonGMO
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:46:53Z
+
+[Term]
+id: ID:0000005
+name: germ
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:47:05Z
+
+[Term]
+id: ID:0000006
+name: quantity
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:47:11Z
+
+[Term]
+id: ID:0000007
+name: seedCoating
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:47:19Z
+
+[Term]
+id: ID:0000008
+name: timestamp
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:47:32Z
+
+[Term]
+id: ID:0000009
+name: employee id
+is_a: ID:0000000 ! seedLot
+created_by: juliedawson
+creation_date: 2018-05-01T17:47:41Z
+

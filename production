@@ -1,0 +1,374 @@
+format-version: 1.2
+date: 01:05:2018 16:05
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: individWt01
+is_a: ID:0000025 ! Production
+creation_date: 2018-05-01T15:07:03Z
+
+[Term]
+id: ID:0000001
+name: <new term>
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:18Z
+
+[Term]
+id: ID:0000002
+name: individWt02
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:28Z
+
+[Term]
+id: ID:0000003
+name: individWt03
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:28Z
+
+[Term]
+id: ID:0000004
+name: individWt04
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:28Z
+
+[Term]
+id: ID:0000005
+name: individWt05
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:29Z
+
+[Term]
+id: ID:0000006
+name: individWt06
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:29Z
+
+[Term]
+id: ID:0000007
+name: individWt07
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:29Z
+
+[Term]
+id: ID:0000008
+name: individWt08
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:29Z
+
+[Term]
+id: ID:0000009
+name: individWt09
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:30Z
+
+[Term]
+id: ID:0000010
+name: individWt10
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:30Z
+
+[Term]
+id: ID:0000011
+name: individWt11
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:30Z
+
+[Term]
+id: ID:0000012
+name: stdDevIndividWt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:30Z
+
+[Term]
+id: ID:0000013
+name: individWt20
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:30Z
+
+[Term]
+id: ID:0000014
+name: individWt14
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:31Z
+
+[Term]
+id: ID:0000015
+name: individWt15
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:31Z
+
+[Term]
+id: ID:0000016
+name: individWt16
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:31Z
+
+[Term]
+id: ID:0000017
+name: individWt17
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:31Z
+
+[Term]
+id: ID:0000018
+name: individWt18
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:32Z
+
+[Term]
+id: ID:0000019
+name: individWt19
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:32Z
+
+[Term]
+id: ID:0000020
+name: avgIndividWt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:32Z
+
+[Term]
+id: ID:0000021
+name: bunchCnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:32Z
+
+[Term]
+id: ID:0000022
+name: bunchwt01
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:33Z
+
+[Term]
+id: ID:0000023
+name: bunchwt02
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:33Z
+
+[Term]
+id: ID:0000024
+name: bunchwt03
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:08:33Z
+
+[Term]
+id: ID:0000025
+name: Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:40:26Z
+
+[Term]
+id: ID:0000026
+name: bunchwt04
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:44:16Z
+
+[Term]
+id: ID:0000027
+name: bunchwt05
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:44:31Z
+
+[Term]
+id: ID:0000028
+name: bunchwt06
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:44:48Z
+
+[Term]
+id: ID:0000029
+name:  bunchwt07
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:45:00Z
+
+[Term]
+id: ID:0000030
+name: bunchwt08
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:45:17Z
+
+[Term]
+id: ID:0000031
+name: bunchwt09
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:45:26Z
+
+[Term]
+id: ID:0000032
+name: bunchwt10
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:45:52Z
+
+[Term]
+id: ID:0000033
+name: partialbunchcnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:52:14Z
+
+[Term]
+id: ID:0000034
+name: partialbunchwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:54:43Z
+
+[Term]
+id: ID:0000035
+name: tencntwt01
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:54:57Z
+
+[Term]
+id: ID:0000036
+name: tencntwt02
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:55:24Z
+
+[Term]
+id: ID:0000037
+name: tencntwt03
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:55:37Z
+
+[Term]
+id: ID:0000038
+name: Mwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:55:59Z
+
+[Term]
+id: ID:0000039
+name: Mcnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:56:11Z
+
+[Term]
+id: ID:0000040
+name: UMwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:56:43Z
+
+[Term]
+id: ID:0000041
+name: UMcnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:57:00Z
+
+[Term]
+id: ID:0000042
+name: avgWt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:57:12Z
+
+[Term]
+id: ID:0000043
+name: propUMwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:57:26Z
+
+[Term]
+id: ID:0000044
+name: totalMwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:57:39Z
+
+[Term]
+id: ID:0000045
+name: totalMcnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:58:07Z
+
+[Term]
+id: ID:0000046
+name: totalUMwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:58:19Z
+
+[Term]
+id: ID:0000047
+name: curedStarted
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:59:06Z
+
+[Term]
+id: ID:0000048
+name: storageStart
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T15:59:50Z
+
+[Term]
+id: ID:0000049
+name: storageMwt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T16:00:02Z
+
+[Term]
+id: ID:0000050
+name: storageMcnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T16:00:17Z
+
+[Term]
+id: ID:0000051
+name: firstRipe
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T16:00:35Z
+
+[Term]
+id: ID:0000052
+name: storageUMcnt
+is_a: ID:0000025 ! Production
+created_by: juliedawson
+creation_date: 2018-05-01T16:00:37Z
+

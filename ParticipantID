@@ -1,0 +1,136 @@
+format-version: 1.2
+date: 01:05:2018 17:36
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+
+[Term]
+id: ID:0000000
+name: ParticipantID
+creation_date: 2018-05-01T17:30:47Z
+
+[Term]
+id: ID:0000001
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T17:31:13Z
+
+[Term]
+id: ID:0000002
+name: FarmName
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:31:46Z
+
+[Term]
+id: ID:0000003
+name: FirstName
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:32:14Z
+
+[Term]
+id: ID:0000004
+name: LastName
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:32:25Z
+
+[Term]
+id: ID:0000005
+name: Email
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:32:33Z
+
+[Term]
+id: ID:0000006
+name: Phone
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:32:39Z
+
+[Term]
+id: ID:0000007
+name: Type
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:32:54Z
+
+[Term]
+id: ID:0000008
+name: MailingAddress
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:33:13Z
+
+[Term]
+id: ID:0000009
+name: MailingAddress2
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:33:26Z
+
+[Term]
+id: ID:0000010
+name: City
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:33:35Z
+
+[Term]
+id: ID:0000012
+name: State
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:33:48Z
+
+[Term]
+id: ID:0000013
+name: Zip
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:33:55Z
+
+[Term]
+id: ID:0000014
+name: County
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:34:01Z
+
+[Term]
+id: ID:0000015
+name: Suggestions
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:34:14Z
+
+[Term]
+id: ID:0000016
+name: Notes
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:34:24Z
+
+[Term]
+id: ID:0000017
+name: Ncrops
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:34:32Z
+
+[Term]
+id: ID:0000018
+name: priority
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:34:40Z
+
+[Term]
+id: ID:0000019
+name: Crops
+is_a: ID:0000000 ! ParticipantID
+created_by: juliedawson
+creation_date: 2018-05-01T17:34:58Z
+

@@ -1,0 +1,998 @@
+format-version: 1.2
+date: 01:05:2018 14:55
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: TimeSpace
+
+[Term]
+id: CO_334:0100000
+name: 33
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:12:31Z
+
+[Term]
+id: CO_334:0100001
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:12:55Z
+
+[Term]
+id: CO_334:0100002
+name: 52
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:18:08Z
+
+[Term]
+id: CO_334:0100003
+name: 2018
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:18:25Z
+
+[Term]
+id: CO_334:0100004
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:20Z
+
+[Term]
+id: CO_334:0100005
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:25Z
+
+[Term]
+id: CO_334:0100006
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:39Z
+
+[Term]
+id: CO_334:0100007
+name: 54
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:39Z
+
+[Term]
+id: CO_334:0100008
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:42Z
+
+[Term]
+id: CO_334:0100009
+name: 53
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:42Z
+
+[Term]
+id: CO_334:0100010
+name: 60
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:44Z
+
+[Term]
+id: CO_334:0100011
+name: 61
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:45Z
+
+[Term]
+id: CO_334:0100012
+name: 62
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:45Z
+
+[Term]
+id: CO_334:0100013
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:47Z
+
+[Term]
+id: CO_334:0100014
+name: 56
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:49Z
+
+[Term]
+id: CO_334:0100015
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:50Z
+
+[Term]
+id: CO_334:0100016
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:50Z
+
+[Term]
+id: CO_334:0100017
+name: 57
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:50Z
+
+[Term]
+id: CO_334:0100018
+name: 58
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:51Z
+
+[Term]
+id: CO_334:0100019
+name: 59
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:20:51Z
+
+[Term]
+id: CO_334:0100020
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:27:04Z
+
+[Term]
+id: CO_334:0100021
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:27:04Z
+
+[Term]
+id: CO_334:0100022
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:27:04Z
+
+[Term]
+id: CO_334:0100023
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:27:04Z
+
+[Term]
+id: CO_334:0100024
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:27:05Z
+
+[Term]
+id: CO_334:0100025
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:27:06Z
+
+[Term]
+id: CO_334:0100026
+name: 64
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:40Z
+
+[Term]
+id: CO_334:0100027
+name: 63
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:40Z
+
+[Term]
+id: CO_334:0100028
+name: 67
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:40Z
+
+[Term]
+id: CO_334:0100029
+name: 65
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:40Z
+
+[Term]
+id: CO_334:0100030
+name: 68
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:41Z
+
+[Term]
+id: CO_334:0100031
+name: <new term>
+is_obsolete: true
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:41Z
+
+[Term]
+id: CO_334:0100032
+name: 70
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:41Z
+
+[Term]
+id: CO_334:0100033
+name: 69
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:31:41Z
+
+[Term]
+id: CO_334:0100034
+name: 66
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:33:15Z
+
+[Term]
+id: CO_334:0100035
+name: 55
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-05-01T14:38:23Z
+
+[Term]
+id: ID:0000000
+name: 2017
+is_a: ID:0000058 ! Time Ontology
+creation_date: 2018-04-19T14:13:25Z
+
+[Term]
+id: ID:0000001
+name: 01
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:31Z
+
+[Term]
+id: ID:0000002
+name: 02
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:34Z
+
+[Term]
+id: ID:0000003
+name: 03
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:35Z
+
+[Term]
+id: ID:0000004
+name: 04
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:38Z
+
+[Term]
+id: ID:0000005
+name: 05
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:39Z
+
+[Term]
+id: ID:0000006
+name: 06
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:40Z
+
+[Term]
+id: ID:0000007
+name: 07
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:42Z
+
+[Term]
+id: ID:0000008
+name: 08
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:44Z
+
+[Term]
+id: ID:0000009
+name: 09
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:46Z
+
+[Term]
+id: ID:0000010
+name: 10
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:47Z
+
+[Term]
+id: ID:0000011
+name: 11
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:36:31Z
+
+[Term]
+id: ID:0000012
+name: 12
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:50Z
+
+[Term]
+id: ID:0000013
+name: 13
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:51Z
+
+[Term]
+id: ID:0000014
+name: 14
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:56Z
+
+[Term]
+id: ID:0000015
+name: 15
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:57Z
+
+[Term]
+id: ID:0000016
+name: 16
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:13:59Z
+
+[Term]
+id: ID:0000017
+name: 17
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:14:00Z
+
+[Term]
+id: ID:0000018
+name: 18
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:14:02Z
+
+[Term]
+id: ID:0000019
+name: 19
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:36:53Z
+
+[Term]
+id: ID:0000020
+name: 20
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:14:09Z
+
+[Term]
+id: ID:0000021
+name: 21
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:14:13Z
+
+[Term]
+id: ID:0000022
+name: 22
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:14:16Z
+
+[Term]
+id: ID:0000023
+name: 23
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+creation_date: 2018-04-19T14:14:21Z
+
+[Term]
+id: ID:0000024
+name: 24
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:34:22Z
+
+[Term]
+id: ID:0000025
+name: 25
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:34:24Z
+
+[Term]
+id: ID:0000026
+name: 26
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:34:27Z
+
+[Term]
+id: ID:0000027
+name: 27
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:37:41Z
+
+[Term]
+id: ID:0000028
+name: 28
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:38:15Z
+
+[Term]
+id: ID:0000029
+name: 29
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-19T14:38:24Z
+
+[Term]
+id: ID:0000030
+name: 30
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:10:22Z
+
+[Term]
+id: ID:0000031
+name: 31
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:10:56Z
+
+[Term]
+id: ID:0000032
+name: 32
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:10:58Z
+
+[Term]
+id: ID:0000033
+name: 33
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:01Z
+
+[Term]
+id: ID:0000034
+name: 34
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:05Z
+
+[Term]
+id: ID:0000035
+name: 35
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:08Z
+
+[Term]
+id: ID:0000036
+name: 36
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:11Z
+
+[Term]
+id: ID:0000037
+name: 37
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:32Z
+
+[Term]
+id: ID:0000038
+name: 38
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:33Z
+
+[Term]
+id: ID:0000039
+name: 39
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:35Z
+
+[Term]
+id: ID:0000040
+name: 40
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:37Z
+
+[Term]
+id: ID:0000041
+name: 41
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:39Z
+
+[Term]
+id: ID:0000042
+name: 42
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:41Z
+
+[Term]
+id: ID:0000043
+name: 43
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:43Z
+
+[Term]
+id: ID:0000044
+name: 44
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:44Z
+
+[Term]
+id: ID:0000045
+name: 45
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:47Z
+
+[Term]
+id: ID:0000046
+name: 46
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:50Z
+
+[Term]
+id: ID:0000047
+name: 47
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:54Z
+
+[Term]
+id: ID:0000048
+name: 48
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:56Z
+
+[Term]
+id: ID:0000049
+name: 49
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:11:58Z
+
+[Term]
+id: ID:0000050
+name: 50
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:12:04Z
+
+[Term]
+id: ID:0000051
+name: 51
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:25:27Z
+
+[Term]
+id: ID:0000052
+name: 52
+is_a: ID:0000000 ! 2017
+is_a: ID:0000053 ! 2016
+is_a: ID:0000054 ! 2015
+is_a: ID:0000055 ! 2018
+is_a: ID:0000056 ! 2019
+is_a: ID:0000057 ! 2020
+created_by: juliedawson
+creation_date: 2018-04-26T10:25:45Z
+
+[Term]
+id: ID:0000053
+name: 2016
+is_a: ID:0000058 ! Time Ontology
+created_by: juliedawson
+creation_date: 2018-05-01T14:53:25Z
+
+[Term]
+id: ID:0000054
+name: 2015
+is_a: ID:0000058 ! Time Ontology
+created_by: juliedawson
+creation_date: 2018-05-01T14:53:34Z
+
+[Term]
+id: ID:0000055
+name: 2018
+is_a: ID:0000058 ! Time Ontology
+created_by: juliedawson
+creation_date: 2018-05-01T14:53:38Z
+
+[Term]
+id: ID:0000056
+name: 2019
+is_a: ID:0000058 ! Time Ontology
+created_by: juliedawson
+creation_date: 2018-05-01T14:53:45Z
+
+[Term]
+id: ID:0000057
+name: 2020
+is_a: ID:0000058 ! Time Ontology
+created_by: juliedawson
+creation_date: 2018-05-01T14:54:35Z
+
+[Term]
+id: ID:0000058
+name: Time Ontology
+created_by: juliedawson
+creation_date: 2018-05-01T14:54:58Z
+

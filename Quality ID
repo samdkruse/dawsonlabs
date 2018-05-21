@@ -1,0 +1,127 @@
+format-version: 1.2
+date: 01:05:2018 16:56
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+
+[Term]
+id: ID:0000000
+name: Quality ID
+creation_date: 2018-05-01T16:50:25Z
+
+[Term]
+id: ID:0000001
+name: treatment
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:49Z
+
+[Term]
+id: ID:0000002
+name: source
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:50Z
+
+[Term]
+id: ID:0000003
+name: project
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:51Z
+
+[Term]
+id: ID:0000004
+name: plot
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:52Z
+
+[Term]
+id: ID:0000005
+name: location
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:54Z
+
+[Term]
+id: ID:0000006
+name: crop
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:54Z
+
+[Term]
+id: ID:0000007
+name: year
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:50:55Z
+
+[Term]
+id: ID:0000008
+name: submarketclass
+created_by: juliedawson
+creation_date: 2018-05-01T16:52:23Z
+
+[Term]
+id: ID:0000009
+name: marketclass
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:52:24Z
+
+[Term]
+id: ID:0000010
+name: management
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:52:26Z
+
+[Term]
+id: ID:0000011
+name: variety
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:53:15Z
+
+[Term]
+id: ID:0000012
+name: tastingLocation
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:53:23Z
+
+[Term]
+id: ID:0000013
+name: tasterID
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:53:38Z
+
+[Term]
+id: ID:0000014
+name: tasterType
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:53:57Z
+
+[Term]
+id: ID:0000015
+name: varietycode
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:54:09Z
+
+[Term]
+id: ID:0000016
+name: reportNo
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:54:18Z
+
+[Term]
+id: ID:0000017
+name: harvestDate
+is_a: ID:0000000 ! Quality ID
+created_by: juliedawson
+creation_date: 2018-05-01T16:54:37Z
+

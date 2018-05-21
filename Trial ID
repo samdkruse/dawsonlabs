@@ -1,0 +1,216 @@
+format-version: 1.2
+date: 01:05:2018 15:05
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: Trial ID
+creation_date: 2018-04-26T10:27:43Z
+
+[Term]
+id: ID:0000001
+name: crop
+is_a: ID:0000000 ! Trial ID
+creation_date: 2018-04-26T10:27:51Z
+
+[Term]
+id: ID:0000002
+name: rep
+is_a: ID:0000000 ! Trial ID
+creation_date: 2018-04-26T10:27:54Z
+
+[Term]
+id: ID:0000003
+name: project
+is_a: ID:0000000 ! Trial ID
+creation_date: 2018-04-26T10:27:56Z
+
+[Term]
+id: ID:0000004
+name: location
+is_a: ID:0000000 ! Trial ID
+creation_date: 2018-04-26T10:27:57Z
+
+[Term]
+id: ID:0000005
+name: year
+is_a: ID:0000000 ! Trial ID
+creation_date: 2018-04-26T10:27:59Z
+
+[Term]
+id: ID:0000006
+name: submarketclass
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:11Z
+
+[Term]
+id: ID:0000007
+name: management
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:14Z
+
+[Term]
+id: ID:0000008
+name: treatment
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:15Z
+
+[Term]
+id: ID:0000009
+name: plot
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:20Z
+
+[Term]
+id: ID:0000010
+name: FLDreplanted
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:34Z
+
+[Term]
+id: ID:0000011
+name: germination
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:35Z
+
+[Term]
+id: ID:0000012
+name: FLDTplanted
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:37Z
+
+[Term]
+id: ID:0000013
+name: FLDseeded
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:39Z
+
+[Term]
+id: ID:0000014
+name: variety
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:42Z
+
+[Term]
+id: ID:0000015
+name: marketclass
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:42Z
+
+[Term]
+id: ID:0000016
+name: plantsPerPlot
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:44Z
+
+[Term]
+id: ID:0000017
+name: accessionNo
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:44Z
+
+[Term]
+id: ID:0000018
+name: row
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:46Z
+
+[Term]
+id: ID:0000019
+name: column
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:46Z
+
+[Term]
+id: ID:0000020
+name: FLDreseeded
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:46Z
+
+[Term]
+id: ID:0000021
+name: GHplanted
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:28Z
+
+[Term]
+id: ID:0000022
+name: GHreplanted
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:36Z
+
+[Term]
+id: ID:0000023
+name: crewTasting
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:41Z
+
+[Term]
+id: ID:0000024
+name: chefTasting
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:42Z
+
+[Term]
+id: ID:0000025
+name: BrixSample
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:48Z
+
+[Term]
+id: ID:0000026
+name: TASample
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:50Z
+
+[Term]
+id: ID:0000027
+name: reportNo
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:45:51Z
+
+[Term]
+id: ID:0000028
+name: photoLink
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:48:08Z
+
+[Term]
+id: ID:0000029
+name: metersPerPlot
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:48:49Z
+
+[Term]
+id: ID:0000030
+name: FLDTreplanted
+is_a: ID:0000000 ! Trial ID
+created_by: juliedawson
+creation_date: 2018-04-26T10:50:42Z
+

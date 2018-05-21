@@ -1,0 +1,260 @@
+format-version: 1.2
+date: 01:05:2018 16:47
+saved-by: juliedawson
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: UMinteriorBlemish
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:34:08Z
+
+[Term]
+id: ID:0000001
+name: diseaseNotes
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:53Z
+
+[Term]
+id: ID:0000002
+name: diseaseLeafRotScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:57Z
+
+[Term]
+id: ID:0000003
+name: diseaseSeptoriaScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:58Z
+
+[Term]
+id: ID:0000004
+name: diseasePMscore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:58Z
+
+[Term]
+id: ID:0000005
+name: diseaseWmoldScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:58Z
+
+[Term]
+id: ID:0000006
+name: UMworm
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:34:29Z
+
+[Term]
+id: ID:0000007
+name: diseaseEBScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:58Z
+
+[Term]
+id: ID:0000008
+name: diseaseBacterialSpot
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:58Z
+
+[Term]
+id: ID:0000009
+name: diseaseBacterialSpeck
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:59Z
+
+[Term]
+id: ID:0000010
+name: insectHornwormScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:59Z
+
+[Term]
+id: ID:0000011
+name: UMsoftRot
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:59Z
+
+[Term]
+id: ID:0000012
+name: UMfibrousRoots
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:59Z
+
+[Term]
+id: ID:0000013
+name: UMcatface
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:16:59Z
+
+[Term]
+id: ID:0000014
+name: UMmisshapen
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:00Z
+
+[Term]
+id: ID:0000015
+name: UMblossomEndRot
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:00Z
+
+[Term]
+id: ID:0000016
+name: UMsunScald
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:00Z
+
+[Term]
+id: ID:0000017
+name: UMmoldy
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:00Z
+
+[Term]
+id: ID:0000018
+name: UMsplit
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:01Z
+
+[Term]
+id: ID:0000019
+name: UMcracked
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:01Z
+
+[Term]
+id: ID:0000020
+name: UMharvestDamage
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:01Z
+
+[Term]
+id: ID:0000021
+name: insectAphidScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:01Z
+
+[Term]
+id: ID:0000022
+name: insectFruitwormScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:02Z
+
+[Term]
+id: ID:0000023
+name: DiseaseNDamage
+creation_date: 2018-05-01T16:17:02Z
+
+[Term]
+id: ID:0000024
+name: insectMitesScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:02Z
+
+[Term]
+id: ID:0000025
+name: insectNotes
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:02Z
+
+[Term]
+id: ID:0000026
+name: insectScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:03Z
+
+[Term]
+id: ID:0000027
+name: insectSquashBugScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:03Z
+
+[Term]
+id: ID:0000028
+name: UMrodent
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:34:41Z
+
+[Term]
+id: ID:0000029
+name: UMrot
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:34:53Z
+
+[Term]
+id: ID:0000030
+name: UMradialSplit
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:35:02Z
+
+[Term]
+id: ID:0000031
+name: UMdesiccation
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:35:26Z
+
+[Term]
+id: ID:0000032
+name: UMoverripe
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:04Z
+
+[Term]
+id: ID:0000033
+name: UMwindowing
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:04Z
+
+[Term]
+id: ID:0000034
+name: UMforked
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:04Z
+
+[Term]
+id: ID:0000035
+name: UMimmature
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:04Z
+
+[Term]
+id: ID:0000036
+name: diseaseScore
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:05Z
+
+[Term]
+id: ID:0000037
+name: UMbolting
+is_a: ID:0000023 ! DiseaseNDamage
+creation_date: 2018-05-01T16:17:05Z
+
+[Term]
+id: ID:0000038
+name: UMnotes
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:35:46Z
+
+[Term]
+id: ID:0000039
+name: damageNotes
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:41:25Z
+
+[Term]
+id: ID:0000040
+name: damageScore
+is_a: ID:0000023 ! DiseaseNDamage
+created_by: juliedawson
+creation_date: 2018-05-01T16:41:31Z
+

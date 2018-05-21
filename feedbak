@@ -1,0 +1,30 @@
+ERROR - java.io.PrintStream@4c97ed28
+INFO - Arguments applied were:
+
+INFO -     -fail-on-clash IF_LIKELY
+INFO -     -version OBO_1_2
+INFO -     -original /Users/juliedawson/Desktop/AllOntDraft/Trial ID
+INFO -     -revision /Users/juliedawson/Desktop/AllOntDraft/Accessions
+INFO -     -revision /Users/juliedawson/Desktop/AllOntDraft/Trial ID
+INFO -     -o TrialMergeAccess
+INFO - 
+The merge process gave the following feedback:
+
+INFO  12:08:03 (OBOFileAdapter:267) - Reading [/Users/juliedawson/Desktop/AllOntDraft/Trial ID]
+	 (allowDangling = false)
+	 (followImports = true)
+DEBUG 12:08:03 (OBOFileAdapter:271) - Done parsing file
+INFO  12:08:03 (OBOFileAdapter:267) - Reading [/Users/juliedawson/Desktop/AllOntDraft/Accessions]
+	 (allowDangling = false)
+	 (followImports = true)
+DEBUG 12:08:03 (OBOFileAdapter:271) - Done parsing file
+INFO  12:08:03 (OBOFileAdapter:267) - Reading [/Users/juliedawson/Desktop/AllOntDraft/Trial ID]
+	 (allowDangling = false)
+	 (followImports = true)
+DEBUG 12:08:03 (OBOFileAdapter:271) - Done parsing file
+DEBUG 12:08:03 (OBOMerge:124) - OBOMerge.applyChanges
+INFO  12:08:03 (OBOFileAdapter:346) - Writing [TrialMergeAccess] (serializer = OBO_1_2, basicSave = true)
+DEBUG 12:08:03 (OBOSerializationEngine:1226) - filteredObjects.size(): 37
+Saved merged ontologies to TrialMergeAccess (OBO version OBO_1_2)
+INFO  12:08:03 (OBOMerge:494) - Saved merged ontologies to TrialMergeAccess (OBO version OBO_1_2)
+The following terms were edited in both of the derived files: []

@@ -1,0 +1,103 @@
+format-version: 1.2
+date: 02:05:2018 12:10
+saved-by: juliedawson
+default-namespace: default_namespace
+
+[Term]
+id: ID:0000000
+name: Accessions
+creation_date: 2018-04-26T10:27:43Z
+
+[Term]
+id: ID:0000001
+name: variety
+is_a: ID:0000000 ! Accessions
+creation_date: 2018-04-26T10:27:51Z
+
+[Term]
+id: ID:0000002
+name: crop
+is_a: ID:0000000 ! Accessions
+creation_date: 2018-04-26T10:27:54Z
+
+[Term]
+id: ID:0000003
+name: marketclass
+is_a: ID:0000000 ! Accessions
+creation_date: 2018-04-26T10:27:56Z
+
+[Term]
+id: ID:0000004
+name: submarketclass
+is_a: ID:0000000 ! Accessions
+creation_date: 2018-04-26T10:27:57Z
+
+[Term]
+id: ID:0000005
+name: breederID
+is_a: ID:0000000 ! Accessions
+creation_date: 2018-04-26T10:27:59Z
+
+[Term]
+id: ID:0000006
+name: distributorID
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:11Z
+
+[Term]
+id: ID:0000007
+name: onFarm
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:14Z
+
+[Term]
+id: ID:0000008
+name: Pedigree
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:15Z
+
+[Term]
+id: ID:0000009
+name: genoID
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:20Z
+
+[Term]
+id: ID:0000010
+name: daystoMaturity
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:34Z
+
+[Term]
+id: ID:0000011
+name: varietyType
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:35Z
+
+[Term]
+id: ID:0000012
+name: description
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:37Z
+
+[Term]
+id: ID:0000013
+name: catalogLink
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:39Z
+
+[Term]
+id: ID:0000014
+name: IPR
+is_a: ID:0000000 ! Accessions
+created_by: juliedawson
+creation_date: 2018-04-26T10:39:42Z
+
